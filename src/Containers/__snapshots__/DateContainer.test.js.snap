@@ -1,0 +1,171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateComponent Tests DateComponent matches snapshot 1`] = `
+Array [
+  <button
+    aria-label="delete"
+    className="MuiButtonBase-root MuiIconButton-root p-2 MuiIconButton-sizeSmall MuiIconButton-edgeEnd"
+    disabled={false}
+    id="back"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTouchRipple-root"
+    />
+  </button>,
+  <h1>
+    Tue, Mar 17, 2020
+  </h1>,
+  <button
+    aria-label="delete"
+    className="MuiButtonBase-root MuiIconButton-root p-2 MuiIconButton-sizeSmall MuiIconButton-edgeEnd"
+    disabled={false}
+    id="forward"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M5.88 4.12L13.76 12l-7.88 7.88L8 22l10-10L8 2z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTouchRipple-root"
+    />
+  </button>,
+]
+`;
+
+exports[`DateContainer Tests Date Container matches snapshot 1`] = `
+Array [
+  <button
+    aria-label="delete"
+    className="MuiButtonBase-root MuiIconButton-root p-2 MuiIconButton-sizeSmall MuiIconButton-edgeEnd"
+    disabled={false}
+    id="back"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+        />
+      </svg>
+    </span>
+  </button>,
+  <h1>
+    Tue, Mar 17, 2020
+  </h1>,
+  <button
+    aria-label="delete"
+    className="MuiButtonBase-root MuiIconButton-root p-2 MuiIconButton-sizeSmall MuiIconButton-edgeEnd"
+    disabled={false}
+    id="forward"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M5.88 4.12L13.76 12l-7.88 7.88L8 22l10-10L8 2z"
+        />
+      </svg>
+    </span>
+  </button>,
+]
+`;
+
+exports[`Welcome Tests Welcome component matches snapshot 1`] = `
+<h1>
+  Welcome, 
+  Yoofi
+  !
+</h1>
+`;

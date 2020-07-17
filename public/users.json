@@ -1,0 +1,14 @@
+[
+  {
+    "userId": 1,
+    "username": "Yoofi",
+    "email": "joseph.brown-pobee@ashesi.edu.gh",
+    "password": "qwerty123"
+  },
+  {
+    "userId": 2,
+    "username": "Test User",
+    "email": "effie@kpmg.com",
+    "password": "kpmg1234"
+  }
+]

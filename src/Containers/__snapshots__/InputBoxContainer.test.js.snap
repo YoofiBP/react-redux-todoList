@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputBox Component tests InputBox component matches snapshot 1`] = `
+<div
+  className="input-group mb-2"
+>
+  <form
+    className="input-group mb-2 w-100"
+    onSubmit={[Function]}
+  >
+    <input
+      aria-describedby="button-addon2"
+      aria-label="New Item"
+      className="form-control"
+      id="title"
+      onChange={[Function]}
+      placeholder="New Item"
+      type="text"
+      value=""
+    />
+    <input
+      className="btn btn-outline-secondary"
+      type="submit"
+      value="Add Item"
+    />
+  </form>
+</div>
+`;
+
+exports[`InputBoxContainer tests Matches snapshot 1`] = `
+<div
+  className="input-group mb-2"
+>
+  <form
+    className="input-group mb-2 w-100"
+    onSubmit={[Function]}
+  >
+    <input
+      aria-describedby="button-addon2"
+      aria-label="New Item"
+      className="form-control"
+      id="title"
+      onChange={[Function]}
+      placeholder="New Item"
+      type="text"
+      value=""
+    />
+    <input
+      className="btn btn-outline-secondary"
+      type="submit"
+      value="Add Item"
+    />
+  </form>
+</div>
+`;
